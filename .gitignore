@@ -11,3 +11,7 @@ model/
 #pdf files
 *.pdf
 
+
+#chache folder
+
+cache/
